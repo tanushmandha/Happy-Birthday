@@ -1,0 +1,16 @@
+body{
+    background-color: black;
+}
+h1{
+    font-size: 50px;
+    color: aliceblue;
+    text-align: center;
+}
+p{
+    font-size: 25px;
+    color: aliceblue;
+    text-align: center;
+}
+img{
+    height: 500px;
+    }
